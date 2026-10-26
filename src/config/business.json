@@ -1,0 +1,16 @@
+{
+  "id": "autodrims",
+  "name": "Автодримс",
+  "tagline": "Детейлинг-центр",
+  "phone": "+7 982 848-27-77",
+  "address": "Екатеринбург, Цвиллинга, 3",
+  "rating2gis": { "score": 5, "count": 24 },
+  "workingHours": { "start": 9, "end": 21 },
+  "worksOnWeekend": false,
+  "services": [
+    { "name": "Полировка кузова", "price": 8500, "duration": 480, "description": "Два пасса, замеры ЛКП, проверка в свете светопанелей" },
+    { "name": "Керамика", "price": 19000, "duration": 600, "description": "Два слоя покрытия, контроль отражения" },
+    { "name": "Ремонт автостекол", "price": 2500, "duration": 120, "description": "Сколы и трещины, полировка зоны ремонта" },
+    { "name": "Химчистка салона", "price": 7000, "duration": 360, "description": "Сиденья, пол, потолок" }
+  ]
+}
